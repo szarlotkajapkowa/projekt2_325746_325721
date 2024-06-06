@@ -1,0 +1,2 @@
+# projekt2_325746_325721
+projekt_2_informatyka_geodezyjna_wtyczka qgis
