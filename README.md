@@ -92,5 +92,10 @@ Oto instrukcja:
 3. Zapisz zmiany:
 Kliknij na ikonę 'Zapisz edycje' (Save Edits) lub wyłącz tryb edycji, a następnie potwierdź zapisanie zmian.
 
+## Znane błędy
+1. Program nie obliczy pola powierzchni dla mniejszej liczby punktów niż 3.
+2. Program nie obliczy różnicy wysokości dla więcej niż 2 punktów naraz.
+  Powyższe błędy będą wyświetlały sie w języku angielskim na pasku informacyjnym programu QGiS
+
 ## Autorzy
 Mateusz Bownik, Maciej Frączek
