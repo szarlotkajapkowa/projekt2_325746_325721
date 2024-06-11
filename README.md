@@ -94,7 +94,7 @@ Kliknij na ikonę 'Zapisz edycje' (Save Edits) lub wyłącz tryb edycji, a nast�
 
 ## Znane błędy
 1. Program nie obliczy pola powierzchni dla mniejszej liczby punktów niż 3.
-2. Program nie obliczy różnicy wysokości dla więcej niż 2 punktów naraz.
+2. Program nie obliczy różnicy wysokości dla więcej niż 2 punktów naraz. <br>
   Powyższe błędy będą wyświetlały sie w języku angielskim na pasku informacyjnym programu QGiS
 
 ## Autorzy
