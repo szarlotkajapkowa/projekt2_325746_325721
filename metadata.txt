@@ -1,0 +1,12 @@
+[general]
+name=MyPlugin
+qgisMinimumVersion=3.0
+author=Your Name
+email=your.email@example.com
+description=Opis Twojej wtyczki
+about=Krótki opis Twojej wtyczki
+version=1.0
+
+[python]
+qgisMinimumVersion=3.0
+email=01179132@pw.edu.pl
