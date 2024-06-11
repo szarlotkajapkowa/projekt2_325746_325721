@@ -22,14 +22,14 @@ class MyPlugin:
         self.dialog = MyPluginDialog()
 
     def initGui(self):
-        self.action = QtWidgets.QAction("My Plugin", self.iface.mainWindow())
+        self.action = QtWidgets.QAction("wtyczka_projekt2", self.iface.mainWindow())
         self.action.triggered.connect(self.run)
         self.iface.addToolBarIcon(self.action)
-        self.iface.addPluginToMenu("&My Plugin", self.action)
+        self.iface.addPluginToMenu("&wtyczka_projekt2", self.action)
 
     def unload(self):
         self.iface.removeToolBarIcon(self.action)
-        self.iface.removePluginMenu("&My Plugin", self.action)
+        self.iface.removePluginMenu("&wtyczka_projekt2", self.action)
 
     def run(self):
         self.dialog.populate_layers()
