@@ -63,7 +63,7 @@ Wtyczka QGIS umożliwiająca użytkownikowi obliczenie różnicy wysokości mię
 Wtyczka została przygotowana na podstawie plików podanych przez prowadzącego, jeśli użytkownik takich nie posiada, może sam stworzyć warstwę z własnymi punktami. 
 Oto instrukcja:
 
-Krok 1: Utworzenie warstwy punktowej
+-**Krok 1: Utworzenie warstwy punktowej**
 
 1. Otwórz QGIS.
 
@@ -77,7 +77,7 @@ Krok 1: Utworzenie warstwy punktowej
 
 -Dodaj pole atrybutu 'wysokosc' typu 'Double'.(WAŻNE----> atrybut w którym użytkownik umieści wysokości punktów musi mieć dokładną nazwe 'wysokosc', inaczej program nie zadziała)
 
-Krok 2: Dodawanie punktów do warstwy
+-**Krok 2: Dodawanie punktów do warstwy**
 
 1. Przejdź do edycji warstwy:
    
