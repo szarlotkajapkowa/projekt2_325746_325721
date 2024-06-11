@@ -32,14 +32,14 @@ Wtyczka QGIS umożliwiająca użytkownikowi obliczenie różnicy wysokości mię
 
 3. Uruchom ponownie QGIS.
 
-##Użycie
+## Użycie
 1. Uruchom QGIS i załaduj warstwę punktową.
 
 2. Aktywuj wtyczkę poprzez menu 'Wtyczki' -> 'Zarządzaj i zainstaluj wtyczki' -> 'wtyczka_projekt2'.
 
 3. Po aktywacji wtyczki, pojawi się nowe okno wtyczki.
 
-##Obliczanie Różnicy Wysokości
+## Obliczanie Różnicy Wysokości
 
 1.Wybierz warstwę punktową z listy rozwijanej.
 
@@ -49,7 +49,7 @@ Wtyczka QGIS umożliwiająca użytkownikowi obliczenie różnicy wysokości mię
 
 4.Wynik różnicy wysokości w metrach zostanie wyświetlony w pasku informacyjnym QGIS.
 
-##Obliczanie Pola Powierzchni
+## Obliczanie Pola Powierzchni
 
 1. Wybierz warstwę punktową z listy rozwijanej.
 
@@ -59,7 +59,7 @@ Wtyczka QGIS umożliwiająca użytkownikowi obliczenie różnicy wysokości mię
 
 4. Wynik pola powierzchni w metrach kwadratowych zostanie wyświetlony w pasku informacyjnym QGIS.
 
-##Przygotowanie Warstwy Punktowej
+## Przygotowanie Warstwy Punktowej
 Wtyczka została przygotowana na podstawie plików podanych przez prowadzącego, jeśli użytkownik takich nie posiada, może sam stworzyć warstwę z własnymi punktami. 
 Oto instrukcja:
 
@@ -92,5 +92,5 @@ Krok 2: Dodawanie punktów do warstwy
 3. Zapisz zmiany:
 Kliknij na ikonę 'Zapisz edycje' (Save Edits) lub wyłącz tryb edycji, a następnie potwierdź zapisanie zmian.
 
-##Autorzy
+## Autorzy
 Mateusz Bownik, Maciej Frączek
